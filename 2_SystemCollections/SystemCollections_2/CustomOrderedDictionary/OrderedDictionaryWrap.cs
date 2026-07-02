@@ -13,7 +13,6 @@ namespace SystemCollections_2.CustomOrderedDictionary
         private List<KeyValuePair<TKey, TValue>> list;
         private Dictionary<TKey, TValue> dict;
         public int Count { get { return list.Count; } }
-        public int Capacity { get { return list.Capacity; } }
 
         public TValue this[TKey key]
         {

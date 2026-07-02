@@ -101,11 +101,7 @@ namespace _6_Reflection
             }
             catch (TargetInvocationException ex)
             {
-                Console.WriteLine($"Ошибка внутри вызываемого метода: {ex.InnerException?.Message}");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Ошибка рефлексии: {ex.Message}");
+                Console.WriteLine($"Error in invocated method: {ex.InnerException?.Message}");
             }
         }
     }
