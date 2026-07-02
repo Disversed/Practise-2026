@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("8_Serialization")]
+[assembly: AssemblyTitle("1_UserCollection")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("8_Serialization")]
+[assembly: AssemblyProduct("1_UserCollection")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("caf7555b-7737-49d5-ba92-ec93b41761eb")]
+[assembly: Guid("f5087f95-9948-42d4-b37d-471a87ada26a")]
 
 // Version information for an assembly consists of the following four values:
 //

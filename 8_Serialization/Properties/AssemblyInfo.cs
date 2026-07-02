@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("6_TemperatureConverterLib")]
+[assembly: AssemblyTitle("8_Serialization")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("6_TemperatureConverterLib")]
+[assembly: AssemblyProduct("8_Serialization")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("eb285f59-5285-4394-82e6-7a05aafa5992")]
+[assembly: Guid("8756def5-1b9a-4e84-8be5-b2b2654bbe1a")]
 
 // Version information for an assembly consists of the following four values:
 //

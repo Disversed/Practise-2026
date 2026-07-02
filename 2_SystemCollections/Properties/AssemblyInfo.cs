@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("9_MemoryManagement")]
+[assembly: AssemblyTitle("2_SystemCollections")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("9_MemoryManagement")]
+[assembly: AssemblyProduct("2_SystemCollections")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("af1e2c85-5344-4c20-8696-07880bb8d70a")]
+[assembly: Guid("76a93fee-c982-4c69-a46b-f5f46f4a80b1")]
 
 // Version information for an assembly consists of the following four values:
 //
